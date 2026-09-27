@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    background-color: brown;
 }
 main{
     margin-left: 20px ;
@@ -18,7 +19,7 @@ h1{
         overflow: hidden;
 }
 .navbar a{
-    color: brown;
+    color: white;
     text-decoration: none;
     padding: 15px;
     display: block;
